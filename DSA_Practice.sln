@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Searching", "Searching", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{A573A6EF-58BC-4627-ABBD-E1726B7F7172}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{3AB8BD21-64FA-4EB7-96E2-4240BD8A05F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{A573A6EF-58BC-4627-ABBD-E1726B7F7172}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A573A6EF-58BC-4627-ABBD-E1726B7F7172}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A573A6EF-58BC-4627-ABBD-E1726B7F7172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB8BD21-64FA-4EB7-96E2-4240BD8A05F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB8BD21-64FA-4EB7-96E2-4240BD8A05F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB8BD21-64FA-4EB7-96E2-4240BD8A05F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB8BD21-64FA-4EB7-96E2-4240BD8A05F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +59,7 @@ Global
 		{5D1A72CB-E401-4237-9324-60491A79C11C} = {5AE8B39D-0D98-4EBD-AE15-AE1FE5413A4B}
 		{30D9E371-F0A7-41EF-B1DC-633C49419BCC} = {5AE8B39D-0D98-4EBD-AE15-AE1FE5413A4B}
 		{A573A6EF-58BC-4627-ABBD-E1726B7F7172} = {E4FE1D04-307C-4B19-9092-4DFA679B6139}
+		{3AB8BD21-64FA-4EB7-96E2-4240BD8A05F9} = {5AE8B39D-0D98-4EBD-AE15-AE1FE5413A4B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F55C48FF-362B-49F1-BD00-09EDD618223A}
